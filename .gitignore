@@ -1,6 +1,7 @@
 # Eclipse
 .project
 .pydevproject
+.settings
 .prefs
 
 # Byte-compiled / optimized / DLL files
